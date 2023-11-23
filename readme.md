@@ -31,7 +31,7 @@
     - 모델 구축: spark MLlib 사용하여 파라미터 튜닝 후 best parameter로 모델 학습.
     - 최종 모델 저장: parquet 형태로 저장.
 - Airflow: Spark pipeline 관리 및 스케줄링
-    ![Alt text](image-2.png)
+    ![Alt text](./img/image-2.png)
 
 **[폴더 구조]**
 
@@ -98,7 +98,7 @@ ubuntu
 <br>
 
 ## ⚡Spark process
-![Alt text](image.png)
+![Alt text](./img/spark_process.png)
 
 1️⃣ **데이터 수집**
 
@@ -154,7 +154,7 @@ ubuntu
 **[결과]** 
 
 - 모든 단계가 성공적으로 연결, 마무리 됨.
-![Alt text](image-1.png)
+![Alt text](./img/airflow.png)
 
 <br>
 
