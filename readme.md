@@ -36,23 +36,23 @@
 **[폴더 구조]**
 
 ```bash
-**ubuntu**
-	├── **airflow**  
+ubuntu
+	├── airflow 
 	│    └── dags  # airflow의 dag를 저장
-	└── **working**
-	     └── **taxi_analysis2**
-						├── **spark_pipeline** # dag에서 실행할 spark pipeline 저장
+	└── working
+	     └── taxi_analysis2
+						├── spark_pipeline # dag에서 실행할 spark pipeline 저장
 						│   ├── extract_data.py
 						│   ├── preprocess.py
 						│   ├── train_model.py
 						│   └── tune_param.py
-						└── **data** 
-                                ├── raw_data # 1️⃣ 뉴욕 택시 데이터(raw data) 저장
-                                ├── train_test 
-                                │       ├── test # 2️⃣ 머신러닝 test data 저장
-                                │       ├── train # 2️⃣ 머신러닝 train data 저장
-                                │       └── param # 3️⃣ 파라미터 튜닝 결과 저장
-                                └── lr_model # 4️⃣ 최종 머신러닝 모델 저장 
+						└── data
+                            ├── raw_data # 1️⃣ 뉴욕 택시 데이터(raw data) 저장
+                            ├── train_test 
+                            │       ├── test # 2️⃣ 머신러닝 test data 저장
+                            │       ├── train # 2️⃣ 머신러닝 train data 저장
+                            │       └── param # 3️⃣ 파라미터 튜닝 결과 저장
+                            └── lr_model # 4️⃣ 최종 머신러닝 모델 저장 
 ```
 <br>
 
