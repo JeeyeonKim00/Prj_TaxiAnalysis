@@ -91,9 +91,9 @@ ubuntu
     ```
     
 
-- [EDA1. 데이터 확인](https://github.com/JeeyeonKim00/Toy_project/blob/dde1eb783a7c6c4967577ae70d3ee4c29ac6de81/taxi_analysis/working/taxi_analysis2/taxi_analysis.ipynb)
+- [EDA1. 데이터 확인](./working/taxi_analysis2/taxi_analysis.ipynb)
 
-- [EDA2. 회귀 분석](https://github.com/JeeyeonKim00/Toy_project/blob/dde1eb783a7c6c4967577ae70d3ee4c29ac6de81/taxi_analysis/working/taxi_analysis2/taxi_fare_prediction.ipynb)
+- [EDA2. 회귀 분석](./working/taxi_analysis2/taxi_fare_prediction.ipynb)
 
 <br>
 
