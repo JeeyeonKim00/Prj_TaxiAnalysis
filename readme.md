@@ -1,11 +1,11 @@
 
 ![spark_prj](https://github.com/JeeyeonKim00/Prj_TaxiAnalysis/assets/127364024/6e1ac7bc-bbbd-4aba-ad0c-51343b477e13)
 
- ## 💻 사용 스킬
+<br>
 
-- `Language` : `Python` , `SQL`
-- `Tool` : `Spark`, `Airflow`, `Pandas`, `Matplotlib`, `Seaborn`, `Ubuntu`, `Jupyter notebook`   
-  
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+<img src="https://img.shields.io/badge/Apache Spark-E25A1C?style=for-the-badge&logo=Apache Spark&logoColor=white"> <img src="https://img.shields.io/badge/Apache Airflow-017CEE?style=for-the-badge&logo=Apache airflow&logoColor=white">  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">   
+
 <br>
 
 
